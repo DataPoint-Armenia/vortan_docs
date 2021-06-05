@@ -37,3 +37,5 @@ Projects
   - A fork of Armtreebank/Tokenizer adapted for the vortan project.
 - [vortan_hyspell](https://github.com/DataPoint-Armenia/vortan_hyspell)
   - Armenian spellcheck with hunspell dictionaries
+- [vortan_corpus](https://github.com/DataPoint-Armenia/vortan_corpus)
+  - A collection of corpora and datasets for vortan.
