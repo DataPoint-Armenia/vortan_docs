@@ -9,7 +9,7 @@ Documentation and planning repo for vortan
 ## Planning
 
 Projects
-- [Exploration](https://github.com/DataPoint-Armenia/vortan_docs/projects/1)
+- [Exploration](https://github.com/orgs/DataPoint-Armenia/projects/1)
 
 ## Docs
 
