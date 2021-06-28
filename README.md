@@ -39,3 +39,18 @@ Projects
   - Armenian spellcheck with hunspell dictionaries
 - [vortan_corpus](https://github.com/DataPoint-Armenia/vortan_corpus)
   - A collection of corpora and datasets for vortan.
+
+
+## Resources
+
+- https://bitbucket.org/timarkh/uniparser-grammar-eastern-armenian/src/master/
+  - EANC uniparser-grammar-eastern-armenian
+- https://ekeleshian.github.io/posts/armenian-common-voice-frequently-asked-questions/
+- https://www.lexilogos.com/keyboard/armenian.htm
+  - Good example of online armenian keyboard
+- https://dumps.wikimedia.org/other/cirrussearch/
+  - Processed wikipedia dumps
+- https://github.com/deimusmeister/ArmenianKeyboard
+  - Open source armenian iOS keyboard
+- https://github.com/Armtreebank/End-to-end-Parser
+- https://github.com/Armtreebank/Tokenizer
