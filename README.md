@@ -54,3 +54,5 @@ Projects
   - Open source armenian iOS keyboard
 - https://github.com/Armtreebank/End-to-end-Parser
 - https://github.com/Armtreebank/Tokenizer
+- https://snowballstem.org/
+  - stemming tool that supports armenian
